@@ -1,0 +1,26 @@
+PRACTICAL PRODUCT GUIDE — CONTENT UPDATE
+
+This ZIP is a patch/update for the existing GitHub repository:
+https://github.com/ashishadlivetech/practical-product-guide
+
+It contains:
+- index.html (updated homepage)
+- guides/index.html (new guide listing page)
+- guides/ (five new researched articles)
+
+UPLOAD:
+1. Extract this ZIP.
+2. Open the existing GitHub repository.
+3. Use Add file > Upload files.
+4. Upload the updated root index.html and the complete guides folder contents.
+5. GitHub will show that index.html is being replaced; this is intentional.
+6. Commit changes to main.
+7. Wait for GitHub Pages to rebuild, then check:
+   https://ashishadlivetech.github.io/practical-product-guide/
+
+IMPORTANT:
+- Do not delete the existing three original guide files in guides/.
+- The new guides are desk research, not hands-on tests.
+- The source links are official manufacturer pages and technical/support documentation where possible.
+- Recheck current product specifications, regional versions, stock and prices before adding affiliate links.
+- Do not insert affiliate links until an affiliate program approves the website and supplies its tracking links.
